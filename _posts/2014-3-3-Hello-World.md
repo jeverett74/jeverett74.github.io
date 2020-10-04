@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Repositories
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+[Gun Violence in America](https://github.com/jeverett74/Gun-Violence-in-America)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+[Airline Safety](https://github.com/jeverett74/Airline-Safety)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+[Gateway Drugs](https://github.com/jeverett74/gateway-drugs)
