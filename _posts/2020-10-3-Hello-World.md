@@ -3,7 +3,7 @@ layout: post
 title: Repositories
 ---
 
-[Gun Violence in America](https://github.com/jeverett74/Gun-Violence-in-America)
+[Gun Violence in America](https://github.com/jeverett74/jeverett74.github.io/blob/master/_posts/Gun%20Violence)
 
 [Airline Safety](https://github.com/jeverett74/Airline-Safety)
 
