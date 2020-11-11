@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Gun-Violence
+title: Gun Violence in America
 ---
-
-# Gun-Violence-in-America
-Jessica Everett
 
 8/11/2019
 
