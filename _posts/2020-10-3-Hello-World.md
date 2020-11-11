@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Repositories
+title: Projects
 ---
 
 [Gun Violence in America](https://github.com/jeverett74/jeverett74.github.io/blob/master/_posts/Gun%20Violence)
