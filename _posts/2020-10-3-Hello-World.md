@@ -3,7 +3,7 @@ layout: post
 title: Projects
 ---
 
-[Gun Violence in America](jeverett74.github.io/Gun%20Violence)
+[Gun Violence in America](https://jeverett74.github.io/Gun%20Violence)
 
 [Airline Safety](https://github.com/jeverett74/Airline-Safety)
 
