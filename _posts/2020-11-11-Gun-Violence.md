@@ -22,12 +22,12 @@ After dropping the outliers, I reran the histograms to get a clearer picture of 
 
 The scatterplot of number of guns and deaths shows that a large majority of gun violence occurs with 1 or 2 guns and between 0 and 1 deaths. The scatterplot of number of guns and injuries shows that a large majority of gun violence occurs with 1 or 2 guns and between 0 and 2 injuries.
 
-![histogram](/images/gun4.png)
-![histogram](/images/gun5.png)
+![scatterplot](/images/gun4.png)
+![scatterplot](/images/gun5.png)
 
 The regression analysis shows that as the number of guns involved increases, the number of injured slowly decreases. At this, I will say that the answer to my hypothetical question, “Does more guns increase the number of injuries and deaths?”, is no. In fact, more guns may decrease the number of injuries and deaths, if only slightly.
 
-![histogram](/images/gun6.png)
+![regression](/images/gun6.png)
 
 ## Challenges
 I would have liked to examine the states and dates more, but it was such a wide range of data that Jupyter Notebook would freeze every time I tried to do a histogram or any other analysis. I was able to determine the state most involved in gun violence (Illinois), and the date in the last five years with the most gun violence (January 1, 2017). 
