@@ -12,7 +12,11 @@ Recent high-profile airline crashes are causing news outlets to push a false nar
 
 Thanks to new regulations such as ASAP (The Aviation Safety Action Program) and FOQA (The Flight Operational Quality Assurance program), data from anonymous airline staff and black boxes is being used to make air travel safer (Rolph, 2019). When comparing the two fifteen-year periods of 1985-1999 and 2000-2014, airline incidents are down 42% and fatalities are down 50%. Accidents are fewer and less fatal overall.
 
+![airline1](/images/airline1.png)
+
 Looking at the entire history of air travel, fatalities started increasing in the 1950s with the advent of commercial airlines. More people flying means higher chance of incidents. We saw a spike in airline deaths in 1972 when 2,373 people perished in 72 crashes (The Year of Flying Dangerously: 1972, 2017). These tragedies occurred mostly with the Russian airline Aeroflot due to low safety standards. Since then we have seen a steady decrease in airline deaths as safety standards and regulations have improved. As of 2016, air travel is safer than it has ever been since the advent of commercial airlines.
+
+![airline2](/images/airline2.png)
 
 In 2017, zero deaths occurred on commercial airlines (Shepardson, 2018). In fact, the fatal accident rate for large commercial passenger flights is 1 per every 16 million flights. Compared to auto accidents killing 40,000 people in the US alone in the same year (Bomey, 2018).
 
